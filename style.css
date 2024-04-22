@@ -92,7 +92,7 @@ h1{
     font-weight: var(--fw-b);
 }
 .pr2{
-
+    text-decoration: line-through;
 }
 
 button{
