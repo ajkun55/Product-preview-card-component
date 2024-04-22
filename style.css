@@ -108,7 +108,10 @@ button{
 button img{
     padding: 0 1rem;
 }
-
+button:hover{
+    background-color: var(--clr-Very-dark-blue);
+    cursor: pointer;
+}
   .attribution { 
     font-size: 11px; text-align: center;
     position: relative; left: 40%; bottom: 0; 
