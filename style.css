@@ -114,7 +114,7 @@ button:hover{
 }
   .attribution { 
     font-size: 11px; text-align: center;
-    position: relative; left: 40%; bottom: 0; 
+    position: absolute; left: 40%; bottom: 0; 
 }
   .attribution a { color: hsl(228, 45%, 44%); }
 
